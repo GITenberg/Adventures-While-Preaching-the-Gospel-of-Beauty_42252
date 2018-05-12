@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/234
     wikipedia: http://en.wikipedia.org/wiki/Vachel_Lindsay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42252#Adventures-While-Preaching-the-Gospel-of-Beauty
 gutenberg_issued: '2013-03-03'
 gutenberg_type: Text
 identifiers:
