@@ -1,0 +1,33 @@
+_repo: Adventures-While-Preaching-the-Gospel-of-Beauty_42252
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42252-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lindsay, Vachel
+    alias: Lindsay, Nicholas Vachel
+    birthdate: 1879
+    deathdate: 1931
+    gutenberg_agent_id: '234'
+    url: http://www.gutenberg.org/2009/agents/234
+    wikipedia: http://en.wikipedia.org/wiki/Vachel_Lindsay
+description: ''
+gutenberg_issued: '2013-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Walking -- United States'
+- !lcsh 'United States -- Description and travel'
+- !lcc 'PS'
+- !lcsh 'Lindsay, Vachel, 1879-1931 -- Travel -- United States'
+tableOfContents: 'I start my walk -- Walking through Missouri -- Walking into Kansas
+  -- In Kansas: the first harvest -- In Kansas: the second and third harvest -- The
+  end of the road; moonshine; and some proclamations.'
+title: Adventures While Preaching the Gospel of Beauty
+url: http://www.gutenberg.org/ebooks/42252
